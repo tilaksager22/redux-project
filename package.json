@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "student-management",
-=======
-  "name": "vite-project",
->>>>>>> d033001 (third)
+  "name": "student-management",  
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^6.4.8",
@@ -23,13 +18,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
-    "react-router-dom": "^7.3.0"
-=======
-    "@reduxjs/toolkit": "^2.6.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-redux": "^9.2.0"
->>>>>>> d033001 (third)
+    "react-router-dom": "^7.3.0"  
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
@@ -40,10 +29,7 @@
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
-<<<<<<< HEAD
-=======
-    "react-router-dom": "^7.4.0",
->>>>>>> d033001 (third)
     "vite": "^6.2.0"
   }
 }
+
